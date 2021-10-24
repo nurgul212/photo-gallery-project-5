@@ -20,9 +20,9 @@ h1 {
 }
 
 #search {
-    width: 55%;
+    width: 60%;
     height: 48px;
-    border: 2px solid rgb(16, 102, 45);
+    border: 3px solid rgb(168, 133, 217);
     border-radius: 7px;
     padding-left: 16px;
     margin:30px auto 30px;
